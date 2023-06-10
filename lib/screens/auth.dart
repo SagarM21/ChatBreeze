@@ -86,9 +86,10 @@ class _AuthScreenState extends State<AuthScreen> {
                           ElevatedButton(
                               onPressed: _submit,
                               style: ElevatedButton.styleFrom(
-                                  backgroundColor:
-                                      Theme.of(context).colorScheme.primary,
-                                  foregroundColor: Colors.white),
+                                backgroundColor: Theme.of(context)
+                                    .colorScheme
+                                    .primaryContainer,
+                              ),
                               child: Text(_isLogin ? 'Login' : 'Signup')),
                           TextButton(
                               onPressed: () {
