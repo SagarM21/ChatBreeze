@@ -15,3 +15,6 @@ A new Flutter project.
 - Chatting for every individual, right now its like a channel where all messages are published
 
 ## Demo
+
+https://github.com/SagarM21/ChatBreeze/assets/72984307/9071ddba-2e08-453a-acaf-dc67035b6b6f
+
