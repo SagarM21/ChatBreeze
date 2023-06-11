@@ -1,16 +1,17 @@
-# chat_app
+# ChatBreeze
 
 A new Flutter project.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Integrated firebase sdk
+- Authentication using Firebase
+- Realtime chat
+- Push Notifications
+- Responsive ui
 
-A few resources to get you started if this is your first Flutter project:
+## To Be Added
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Chatting for every individual, right now its like a channel where all messages are published
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
